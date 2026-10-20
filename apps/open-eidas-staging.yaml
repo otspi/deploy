@@ -42,13 +42,13 @@ spec:
       values: |
         ca:
           image:
-            tag: 7850df8c907a07ff490c89e3771b8d914d0ed036
+            tag: 7472dbb141eee77e229ab92bfbbf9cd5e066ddec
         tsa:
           image:
-            tag: 7850df8c907a07ff490c89e3771b8d914d0ed036
+            tag: 7472dbb141eee77e229ab92bfbbf9cd5e066ddec
         ocsp:
           image:
-            tag: 7850df8c907a07ff490c89e3771b8d914d0ed036
+            tag: 7472dbb141eee77e229ab92bfbbf9cd5e066ddec
 
   destination:
     server: https://kubernetes.default.svc
